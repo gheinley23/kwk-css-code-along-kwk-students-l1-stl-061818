@@ -1,7 +1,7 @@
 /* add CSS class and element and selectors here */
 
 body {
-      background-color:#FFB1C6;
+      background-color:#;
       font-size: 200%;
 }
 
@@ -9,6 +9,6 @@ body {
   font-family:courier;
   font-size:500%;
   border:10px dotted white;
-  background:#;
+  background:#FFB1C6;
   letter-spacing:10px;
 }
