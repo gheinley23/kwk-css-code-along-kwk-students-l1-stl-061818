@@ -8,7 +8,7 @@ body {
 .EvieSampleClass {
   font-family:courier;
   font-size:500%;
-  border:10px dotted light blue;
+  border:10px dotted white;
   background:purple;
   letter-spacing:10px;
 }
